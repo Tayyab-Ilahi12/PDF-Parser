@@ -6,4 +6,4 @@ A Python Implementation of PDF parser using Natural Language Processing. This pr
 It has GUI created in Tkinter library from where you can select input CVs, the new template and few other tweaks to make the results more accurate.
 
 
-## You can test it on your CVs as I cannot upload CVs of other people to test.
+#### You can test it on your CVs as I cannot upload CVs of other people to test.
